@@ -7,3 +7,6 @@ https://github.com/awslabs/amazon-sagemaker-examples/blob/master/introduction_to
 
 - Companion video
 https://www.youtube.com/watch?v=D04dxTiDO3E&feature=youtu.be
+
+
+[[https://github.com/acloudfan/ID-SMS-V0520/blob/master/images/create-new-experiment.png|alt=octocat]]
