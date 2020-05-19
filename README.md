@@ -1,4 +1,7 @@
 ### Info on setup
+- Jupyter 101
+https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+
 - Use this as the guide
 https://gitlab.com/juliensimon/aim307/-/blob/master/aim307.ipynb
 
