@@ -1,3 +1,5 @@
+## 1. Create the Studio
+
 ## Common Issues
 1. The Notebook Markdown sections are un readable (green ones)
    *Fix:* Change the Theme for Jupyter Notebooks
@@ -12,7 +14,13 @@
    *Fix:* You MUST create an S3 buck for use from the notebooks
    Scripts require you to change the name of the bucket. If you missed that step then you would get a "permissions error on S3"
 
-4. 
+4. I messed up when creating the "Studio" - what do I do?
+   *Fix:* No worries - we will need to recreate the studio
+   1. Click on the gear in the user section
+   2. Delete the "App"
+   3. Delete the "User"
+   4. Come to the studio screen & delete the studio
+   5. Now follow the instructions to recreate the studio
 
 
 
