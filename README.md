@@ -1,3 +1,21 @@
+## Common Issues
+1. The Notebook Markdown sections are un readable (green ones)
+   *Fix:* Change the Theme for Jupyter Notebooks
+        * Click on Settings
+        * Select JupyterLab Theme
+        * Select either 'JupyterLab Light' or 'JupyterLab Dark'
+
+2. My notebook has become unresponsive 
+   *Fix:* Reload the notebook using the browser reload
+
+3. I am getting permissions issue on S3 bucket
+   *Fix:* You MUST create an S3 buck for use from the notebooks
+   Scripts require you to change the name of the bucket. If you missed that step then you would get a "permissions error on S3"
+
+4. 
+
+
+
 ### Info on setup
 - Jupyter 101
 https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
