@@ -21,6 +21,13 @@ As a Data Scientist you will be dealing with data day in and day out. In order t
 -Churn?:         whether the customer left the service: true/false
 
 
+### Common Error
+Error "FileNotFoundError ..."
+Fix = Make sure the root folder for the project is named as "SMID"
+- Right click on project folder in left panel
+- Select the "Rename" option
+- Rename to "SMID"
+
 ### Credits
 - [“Discovering Knowledge in Data” by Daniel T."](https://www.amazon.com/dp/0470908742/)
 - [Blog by Denis V. Batalov](https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-amazon-machine-learning/)
