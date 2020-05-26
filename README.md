@@ -1,4 +1,16 @@
-## 1. Create the Studio
+## These notebooks are part of the Amazon workshop
+## "Applied Machine Learning with SageMaker"
+
+
+### Hypothetical Situation
+You are Data Scientist working for a Mid-Size Cellphone povider - "Atizen". Market for cellphone services have become extremely competitive and your employer has started to lose out the customers to competition. An internal analysis has indicated that in the hyper-competitive *Atizen* MUST pro actively work on retaining the customers as once the customer has left it is virtually impossible to get them back due to the one year contracts they sign.
+
+Business leadership has come up with a strategy that requires pro active customer reach out to prevent them from leaving *Atizen*. The customer care team was given the owner ship of the task to reach out to customers who are at a high risk of separation from *Atizen*. 
+
+*Atizen* has roughly 7 Million customers. The customer care team is a 50 member team. It is practically impossible to call every customer to understand their risk of separation. A better strategy is needed!!!
+
+You are given the task of understanding the historical data to come up with a report that will identify the current customers who have a high risk of separation. Here is how the data looks like.
+
 
 ## Common Issues
 1. The Notebook Markdown sections are un readable (green ones)
